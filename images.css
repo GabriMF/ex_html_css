@@ -1,7 +1,11 @@
-.html{
-    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png");
-
+.html_pic{
+    height: 40vh;
+    float: left;
 }
 
-
-/*https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png*/
+.css_pic{
+    height: 40vh;
+    float: left;
+    margin-right: 3vw;
+    margin-left: 3vw;
+}
